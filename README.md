@@ -21,4 +21,4 @@ https://Dicmen92.github.io/rsschool-cv/cv
 7.  ** Glo Academy ** .
 8. Английский язык ( * начальный уровень * ).
 
-https://Dicmen92.github.io/rsschool-cv
+https://dicmen92.github.io/rsschool-cv/cv
