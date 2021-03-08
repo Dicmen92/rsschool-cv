@@ -17,3 +17,4 @@
 Thesis project - [https://github.com/Dicmen92/diplom_light/tree/completed_project_finish](https://github.com/Dicmen92/diplom_light/tree/completed_project_finish).
 7. **Glo Academy**.
 8. English (*beginner level*).
+
