@@ -20,3 +20,5 @@ https://Dicmen92.github.io/rsschool-cv/cv
 Дипломный проект - [ https://github.com/Dicmen92/diplom_light/tree/completed_project_finish ] (https://github.com/Dicmen92/diplom_light/tree/completed_project_finish).
 7.  ** Glo Academy ** .
 8. Английский язык ( * начальный уровень * ).
+
+https://your-github-account.github.io/rsschool-cv
