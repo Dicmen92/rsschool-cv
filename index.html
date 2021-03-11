@@ -9,38 +9,90 @@
   </head>
   <body>
     <div class="container">
-      <ol>
-        <li>Dmitriy Babich</li>
-        <li>+77076635702</li>
-        <li>
+      <img class="avatar" src="img/avatar.jpg" alt="my avatar" />
+
+      <h1>Dmitriy Babich</h1>
+      <header class="header">
+        <h2>Personal data</h2>
+        <ul class="list_none">
+          <li>
+            <span>tel:</span> <a href="tel: +77076635702">+77076635702</a>
+          </li>
+          <li><span>address:</span> Kostanay city</li>
+          <li><span>email:</span> babich-d@mail.ru</li>
+          <li>
+            <span>vk:</span>
+            <a href="https://vk.com/id53006243">https://vk.com/id53006243</a>
+          </li>
+        </ul>
+      </header>
+
+      <div class="personal_qualities">
+        <h2>Personal qualities</h2>
+        <p>
           A few words about my qualities: dedication, optimism, adequacy,
           sociability and a great desire to learn all the delights of this
           profession. There is no practical experience in the studio, but there
           is knowledge in HTML, CSS, JS (in October I finished the course at the
           Academy of Layout, I have a certificate), webpack, bootstrap 4,
           flexbox.
-        </li>
-        <li>HTML, CSS, JS (First level), webpack, bootstrap 4, flexbox.</li>
-        <li>
-          <code
-            >if (elem.value === '') { } else if (elem.value.length < 10){
-            button[i].setAttribute('disabled', true); button[i].style.cursor =
-            'pointer'; telMessage.textContent = phoneMessage;
-            item.append(telMessage); } else if (elem.value.length === 10 ||
-            elem.value.length > 10){ button[i].removeAttribute('disabled');
-            telMessage.textContent = ''; };</code
-          >
-        </li>
-        <li>
-          JavaScript course (<strong>GLO Academy</strong>). Thesis project -
+        </p>
+      </div>
+
+      <div class="knowledge_stack">
+        <h2>Knowledge stack</h2>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JS (First level)</li>
+          <li>Webpack</li>
+          <li>Bootstrap 4</li>
+          <li>Flexbox</li>
+        </ul>
+      </div>
+
+      <div class="my_code">
+        <h2>An example of my code</h2>
+        <code class="code">
+          if (elem.value === '') { } else if (elem.value.length < 10){
+          button[i].setAttribute('disabled', true); button[i].style.cursor =
+          'pointer'; telMessage.textContent = phoneMessage;
+          item.append(telMessage); } else if (elem.value.length === 10 ||
+          elem.value.length > 10){ button[i].removeAttribute('disabled');
+          telMessage.textContent = ''; };
+        </code>
+      </div>
+
+      <div class="completed_courses">
+        <h2>Completed courses</h2>
+        <p>
+          JavaScript course (<strong>GLO Academy</strong>). <br />
+          Thesis project -
           <a
             href="https://github.com/Dicmen92/diplom_light/tree/completed_project_finish"
             >https://github.com/Dicmen92/diplom_light/tree/completed_project_finish</a
-          >.
-        </li>
-        <li><strong>Glo Academy</strong></li>
-        <li>English (<em>beginner level</em>)</li>
-      </ol>
+          >
+        </p>
+      </div>
+
+      <div class="place_study">
+        <h2>Place of study</h2>
+        <p><strong>Glo Academy</strong></p>
+      </div>
+
+      <div class="language">
+        <h2>language proficiency</h2>
+        <p>English (<em>beginner level</em>)</p>
+      </div>
+
+      <footer class="footer">
+        <a href="https://rs.school/js/">
+          <img class="rs_school" src="img/rs_school_js.svg" alt="rs school"
+        /></a>
+        <a class="github" href="https://github.com/Dicmen92/rsschool-cv">
+          <img src="img/github-logo.jpg" alt="github" />
+        </a>
+      </footer>
     </div>
   </body>
 </html>
