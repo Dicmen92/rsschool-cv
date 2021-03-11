@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  margin: 20px auto;
+  box-sizing: border-box;  
+}
+
+.container{
+  width: 1024px;
+}
+
+.avatar{  
+  height: 300px;
+  border-radius: 10%;
+}
+
+ul span{
+  font-weight: 700;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+}
+
+.list_none{
+  list-style: none;
+}
+
+.avatar:hover{
+  border: 3px solid red;
+  cursor: pointer;
+}
+
+h1, .header, .personal_qualities, .knowledge_stack, .my_code, .completed_courses, .place_study, .language{
+  padding: 0 20px;
+  border-bottom: 2px solid red;
+}
+
+.code{
+  background-color: beige;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.github{
+  color: blue;
+  text-decoration: none;
+}
+
+.footer img{
+  width: 200px;
+}
